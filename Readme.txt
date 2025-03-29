@@ -1,0 +1,1 @@
+double click setup.bat the run.bat
